@@ -1,0 +1,8 @@
+Z:\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\bin\Debug\Senparc.Weixin.dll
+Z:\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\bin\Debug\Senparc.Weixin.pdb
+Z:\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.dll
+Z:\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\bin\Debug\Senparc.Weixin.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\bin\Debug\Senparc.Weixin.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.pdb

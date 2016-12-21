@@ -1,0 +1,5 @@
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\Senparc.Weixin.MP.BuildOutPut\Senparc.Weixin.MP.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\Senparc.Weixin.MP.BuildOutPut\Senparc.Weixin.MP.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.csprojResolveAssemblyReference.cache
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin.MP\obj\Debug\Senparc.Weixin.MP.pdb

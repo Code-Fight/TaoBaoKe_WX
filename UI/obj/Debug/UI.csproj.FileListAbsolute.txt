@@ -1,0 +1,13 @@
+Z:\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\UI.dll.config
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\UI.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\UI.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\Senparc.Weixin.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\Senparc.Weixin.MP.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\Services.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\Senparc.Weixin.MP.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\Senparc.Weixin.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\bin\Services.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\obj\Debug\UI.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\UI\obj\Debug\UI.pdb

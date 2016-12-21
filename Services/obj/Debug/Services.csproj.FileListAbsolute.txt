@@ -1,0 +1,9 @@
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\bin\Debug\Services.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\bin\Debug\Services.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\bin\Debug\Senparc.Weixin.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\bin\Debug\Senparc.Weixin.MP.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\bin\Debug\Senparc.Weixin.MP.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\bin\Debug\Senparc.Weixin.pdb
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\obj\Debug\Services.dll
+\\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Services\obj\Debug\Services.pdb
