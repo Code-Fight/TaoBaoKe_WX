@@ -1,0 +1,8 @@
+文件“E:\MySource\Git\TaoBaoKe_WX\UI\App_Data\636180987000177134_Response_oe3HPsxR0P1hl6i7dJpSXJUSDkEc.txt”正由另一进程使用，因此该进程无法访问此文件。
+<xml>
+  <ToUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></ToUserName>
+  <FromUserName><![CDATA[gh_ec11ec95b95b]]></FromUserName>
+  <CreateTime>1482473034</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[抱歉，解析失败，请重试]]></Content>
+</xml>

@@ -6,3 +6,8 @@ Z:\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.We
 \\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\bin\Debug\Senparc.Weixin.pdb
 \\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.dll
 \\Mac\Home\GitHub\C#_project\TaoBaoKe_WX\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.pdb
+E:\MySource\Git\TaoBaoKe_WX\Senparc.Weixin\bin\Debug\Senparc.Weixin.dll
+E:\MySource\Git\TaoBaoKe_WX\Senparc.Weixin\bin\Debug\Senparc.Weixin.pdb
+E:\MySource\Git\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.dll
+E:\MySource\Git\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.pdb
+E:\MySource\Git\TaoBaoKe_WX\Senparc.Weixin\obj\Debug\Senparc.Weixin.csprojResolveAssemblyReference.cache

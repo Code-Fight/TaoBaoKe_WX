@@ -7,7 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Senparc.Weixin.MP;
 using Senparc.Weixin.MP.Entities.Request;
-using Services.MessageHandlers;
+using WX.Services.MessageHandlers;
 
 namespace UI
 {

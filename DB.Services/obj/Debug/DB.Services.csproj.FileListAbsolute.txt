@@ -1,0 +1,14 @@
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\DB.Services.dll
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\DB.Services.pdb
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\Dos.ORM.dll
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\Dos.ORM.xml
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\obj\Debug\DB.Services.dll
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\obj\Debug\DB.Services.pdb
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\obj\Debug\DB.Services.csprojResolveAssemblyReference.cache
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\Common.dll
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\DB.Entity.dll
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\Common.pdb
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\DB.Entity.pdb
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\TB.Services.dll
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\TopSdk.dll
+E:\MySource\Git\TaoBaoKe_WX\DB.Services\bin\Debug\TB.Services.pdb

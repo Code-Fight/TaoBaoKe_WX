@@ -1,0 +1,6 @@
+E:\MySource\Git\TaoBaoKe_WX\TB.Services\bin\Debug\TB.Services.dll
+E:\MySource\Git\TaoBaoKe_WX\TB.Services\bin\Debug\TB.Services.pdb
+E:\MySource\Git\TaoBaoKe_WX\TB.Services\bin\Debug\TopSdk.dll
+E:\MySource\Git\TaoBaoKe_WX\TB.Services\obj\Debug\TB.Services.csprojResolveAssemblyReference.cache
+E:\MySource\Git\TaoBaoKe_WX\TB.Services\obj\Debug\TB.Services.dll
+E:\MySource\Git\TaoBaoKe_WX\TB.Services\obj\Debug\TB.Services.pdb

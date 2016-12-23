@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></ToUserName>
+  <FromUserName><![CDATA[gh_ec11ec95b95b]]></FromUserName>
+  <CreateTime>1482478272</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[优惠券找到啦！复制本条消息，打开手机淘宝，立即查看即可！￥SNz45Qqt04￥]]></Content>
+</xml>

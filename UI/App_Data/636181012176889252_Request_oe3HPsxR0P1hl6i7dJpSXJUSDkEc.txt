@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[gh_ec11ec95b95b]]></ToUserName>
+<FromUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></FromUserName>
+<CreateTime>1482475617</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【鼎宝颈部颈椎牵引器家用护颈拉伸器成人医用充气脖子按摩治疗仪】http://c.b1yq.com/h.cN2wo6?cv=TecF5jvXjY&sm=f2f277 点击链接，再选择浏览器打开；或复制这条信息，打开👉手机淘宝👈￥TecF5jvXjY￥]]></Content>
+<MsgId>6367184292558222739</MsgId>
+</xml>

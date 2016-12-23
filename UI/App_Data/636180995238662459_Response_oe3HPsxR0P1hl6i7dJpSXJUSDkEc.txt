@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></ToUserName>
+  <FromUserName><![CDATA[gh_ec11ec95b95b]]></FromUserName>
+  <CreateTime>1482473910</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[抱歉，系统异常，请稍后重试]]></Content>
+</xml>

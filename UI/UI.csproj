@@ -87,10 +87,14 @@
       <Project>{814092cd-9cd0-4fb7-91e8-d147f476f1fb}</Project>
       <Name>Senparc.Weixin</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Services\Services.csproj">
+    <ProjectReference Include="..\WX.Services\WX.Services.csproj">
       <Project>{E96DC46C-65B4-41C1-9330-12FFE25CC027}</Project>
-      <Name>Services</Name>
+      <Name>WX.Services</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Code\" />
+    <Folder Include="App_Data\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -107,7 +111,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>11597</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:11575/</IISUrl>
+          <IISUrl>http://localhost:11590/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

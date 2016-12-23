@@ -1,0 +1,5 @@
+E:\MySource\Git\TaoBaoKe_WX\Common\bin\Debug\Common.dll
+E:\MySource\Git\TaoBaoKe_WX\Common\bin\Debug\Common.pdb
+E:\MySource\Git\TaoBaoKe_WX\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\MySource\Git\TaoBaoKe_WX\Common\obj\Debug\Common.dll
+E:\MySource\Git\TaoBaoKe_WX\Common\obj\Debug\Common.pdb

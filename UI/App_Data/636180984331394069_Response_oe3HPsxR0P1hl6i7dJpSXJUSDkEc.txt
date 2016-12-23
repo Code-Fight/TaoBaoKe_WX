@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></ToUserName>
+  <FromUserName><![CDATA[gh_ec11ec95b95b]]></FromUserName>
+  <CreateTime>1482472833</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[感谢您使用帮帮熊优惠券发布系统，使用方式如下：
+1.发送命令【@分类】可以获取分类整理后的优惠券信息
+2.通过发送命令具体类目命令，比如【@服装】可以获取服装类优惠券信息，目前支持的类目如下：
+@服装|@母婴|@居家|@美食|@化妆品|@鞋包配饰|@文体车品|@数码家电  
+3.查询特定商品宝贝，请看此处：【链接】  
+4.发送【@客服】可获取客服信息进行人工服务
+5.更多功能开发中，敬请期待]]></Content>
+</xml>

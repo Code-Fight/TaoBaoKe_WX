@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[gh_ec11ec95b95b]]></ToUserName>
+<FromUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></FromUserName>
+<CreateTime>1482473635</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【昂科拉钥匙包专用真皮手缝汽车钥匙包改装昂克拉真皮车钥匙套改装】http://c.b1yq.com/h.cm2TjJ?cv=rDnt57cOU7&sm=9fc6bb 点击链接，再选择浏览器打开；或复制这条信息，打开👉手机淘宝👈￥rDnt57cOU7￥]]></Content>
+<MsgId>6367175779933041710</MsgId>
+</xml>

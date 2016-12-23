@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[gh_ec11ec95b95b]]></ToUserName>
+<FromUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></FromUserName>
+<CreateTime>1482474578</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[https://detail.tmall.com/item.htm?id=541075064651&ali_trackid=2:mm_27864031_11496121_65052782:1482474375_3k1_1616089683]]></Content>
+<MsgId>6367179830087201982</MsgId>
+</xml>

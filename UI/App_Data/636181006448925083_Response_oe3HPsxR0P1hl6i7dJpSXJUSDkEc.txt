@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></ToUserName>
+  <FromUserName><![CDATA[gh_ec11ec95b95b]]></FromUserName>
+  <CreateTime>1482475035</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[https://uland.taobao.com/coupon/edetail?e=2xBmcUCeRtBt3vqbdXnGliIr1jFOfys3NPHeqquU9w2Qek%2B3KcacrbtLmdOqMMWWwIvriDK5OXGBBZZXgi8VRB0HgBdG%2FDDL%2F1M%2FBw7Sf%2FcPn%2BQNljbfTuO0dcGK32uhnafFPbfM4OCsBIXJVU4Y9KtyHYUoU%2FUc&pid=mm_27864031_11496121_65052782&af=1]]></Content>
+</xml>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <ToUserName><![CDATA[oe3HPsxR0P1hl6i7dJpSXJUSDkEc]]></ToUserName>
+  <FromUserName><![CDATA[gh_ec11ec95b95b]]></FromUserName>
+  <CreateTime>1482472885</CreateTime>
+  <MsgType><![CDATA[text]]></MsgType>
+  <Content><![CDATA[抱歉，无法解析,请发送正常分享链接]]></Content>
+</xml>
